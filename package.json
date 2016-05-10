@@ -1,0 +1,28 @@
+{
+  "name": "npminstaller",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "archiver": "^1.0.0",
+    "body-parser": "^1.0.2",
+    "express": "^4.1.1",
+    "get-folder-size": "^1.0.0",
+    "method-override": "^1.0.0",
+    "mime": "^1.3.4",
+    "mongoose": "^4.4.15",
+    "morgan": "^1.0.0",
+    "randomstring": "^1.1.4",
+    "rmdir": "^1.2.0",
+    "socket.io": "^1.4.6"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-cssmin": "~0.6.0",
+    "grunt-contrib-watch": "~0.4.0",
+    "nodemon": "^1.0.17"
+  }
+}
