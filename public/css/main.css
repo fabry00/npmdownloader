@@ -1,0 +1,18 @@
+#console_cnt{
+  border: 2px solid #DEDEDE;
+  min-height: 300px;
+  max-height: 300px;
+  overflow: auto;
+}
+
+#console_cnt .row{
+  border-bottom: 2px solid #DEDEDE;
+}
+
+#console_cnt .row .col{
+  text-align: center;
+}
+
+#console_cnt .row .col2{
+  border-left: 2px solid #DEDEDE;
+}
